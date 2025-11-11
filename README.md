@@ -1,7 +1,7 @@
 # Bash User Management System
 
 A lightweight user management system built entirely in **Bash** for Linux environments.  
-It handles **user registration, authentication, session tracking**, and **CSV-based reporting** — without using any external dependencies.
+It handles **user registration, authentication, session tracking**, and **CSV-based reporting**, without using any external dependencies.
 
 ---
 
