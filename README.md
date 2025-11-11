@@ -40,6 +40,14 @@ chmod +x *.sh
 - All interactions happen through the terminal interface.
 - If this is your first time running it, the script will create a home/ directory for each registered user.
 
+## 🎬 Demo
+
+### 🔐 Login
+![Login demo](demo/autentificare.png)
+
+### 🧾 Registration
+![Registration demo](demo/inregistrare.png)
+
 ## 🧑‍💻 Author
 
 - Project created for the Operating Systems course at CSIE ASE Bucharest.
