@@ -42,11 +42,11 @@ chmod +x *.sh
 
 ## 🎬 Demo
 
-### 🔐 Login
-![Login demo](demo/autentificare.png)
-
 ### 🧾 Registration
 ![Registration demo](demo/inregistrare.png)
+
+### 🔐 Login
+![Login demo](demo/autentificare.png)
 
 ## 🧑‍💻 Author
 
