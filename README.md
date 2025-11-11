@@ -13,7 +13,7 @@ It handles **user registration, authentication, session tracking**, and **CSV-ba
 - **Automatic user home directory creation**  
 - **Report generation** via shell script (`raport.sh`)  
 - **Secure password handling** using hashing  
-- Modular design — each feature in a separate `.sh` file  
+- Modular design, each feature in a separate `.sh` file  
 
 ---
 
